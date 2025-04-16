@@ -1,1 +1,1 @@
-Exercises of Numerical Relativity (University of Milano-Bicocca)
+Numerical Relativity homework (University of Milano-Bicocca)
